@@ -7,3 +7,4 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(8080);
+console.log("Listening to Port 8080");

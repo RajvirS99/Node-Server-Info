@@ -1,0 +1,16 @@
+{
+  "name": "node-info",
+  "version": "1.0.0",
+  "description": "The programs displays all the information about the Node Server",
+  "main": "app.js",
+  "dependencies": {
+    "nodejs-info": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Rajvir Singh",
+  "license": "ISC"
+}
